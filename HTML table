@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <title>Time Table</title>
+    </head>
+        <h1 align="center">TIME TABLE OF DIVISION SEM 3I B.E(INFPORMATION TECHNOLOGY)</h1>
+        <h2 text-aling="center">DIVISION:B &nbsp  &nbsp Class room :105  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp   w.e.f </h2>
+        <table border="black 1px" align="center" width="1850" height="650">
+        <tr>
+        <th aling="center">SLOT</th>
+        <th aling="center">MONDAY</th>
+        <th aling="center">TUESDAY</th>
+        <th aling="center">WEDNESDAY</th>
+        <th aling="center">TURESDSAY</th>
+        <th aling="center">FRIDAY</th>
+        <th aling="center">SATURDAY</th>
+        </tr>
+        <tr>
+        <td>1</td>
+        <td rowspan=2>3i1 DE(PS)<br>3i2 DBMS(DT)<br>3i3 DBMS(YV)</td>
+        <td rowspan=2>3i1 DBMS(YV)<br>3i2 ITW(SGP)<br>3i3 DE(RMP)</td>
+        <td rowspan=2>3i1 ITW(VB)<br>3i2 DE(RMP)<br>3i3 DSA(NVP)</td>
+        <td>MATHS(VKP)</td>
+        <td>DBMS(YV)</td>
+        <td>ITW(LG)</td>
+        </tr>
+        <tr>
+        <td>2</td>
+        <td>DSA(NVP)</td>
+        <td>DE(RMP)</td>
+        <td>DBMS(YV)</td>
+        </tr>
+        <tr>
+        <td colspan=7 align="center">BREAK</td>
+        </tr>
+        <td>3</td>
+        <td>ITW(LG)</td>
+        <td>MATHS(KJ)</td>
+        <td>DBMS(YV)</td>
+        <td rowspan=2>3i1 ITW(LG)<br>3i2 DBMS(YV)<br>3i3 DSA(NVP)</td>
+        <td rowspan=2>3i1 DSA(NVP)<br>3i2 ITW(LG)<br>3i3 DBMS(YV)</td>
+        <td rowspan=2>3i1 ITW(LQ1)<br>3i2 DBMS(L1)<br>3i3 ITW(LG)</td>
+        </tr>
+        <tr>
+        <td>4</td>
+        <td>DSA(NVP)</td>
+        <td>DSA(NVP)</td>
+        <td>DBMS(YV)</td>
+        </tr>
+        <tr>
+        <td colspan=7 align="center">BREAK</td>
+        </tr>
+        <td>5</td>
+        <td>DBMS(YV)</td>
+        <td>DE(RMP)</td>
+        <td>ITW(LG)</td>
+        <td>DE(RMP)</td>
+        <td>MATHS(KJ)</td>
+        <td rowspan=2 bgcolor="black"></td>
+        
+        </tr>
+        <tr>
+        <td>6</td>
+        <td>DE(RMP)</td>
+        <td>DSA(NVP)</td>
+        <td>MATHS(KJ/VP)</td>
+        <td>DSA(NVP)</td>
+        <td>DE(RMP)</td>
+        </tr>
+        </table>
+        <table border="black 1px" align="center" width="1850" height="60">
+        <tr>
+        <th>subject name</th>
+        <th>subject teacher</th>
+        </tr>
+        <tr>
+        <td>Discrete mathematics</td>
+        <td>vijay patel,kumkum jain</td>
+        </tr>
+        <tr>
+        <td>data struvture & algorithms</td>
+        <td>nimesh patel</td>
+        </tr>
+        <tr>
+        <td>digital electronics</td>
+        <td>reenA PATEL</td>
+        </tr>
+        <tr>
+        <td>it WORKSHOP</td>
+        <td>LOKESH GANGANI</td>
+        </tr>
+        <tr>
+        <td>DATA BASE MANAGMENT SYSTEM</td>
+        <td>YOGESH VAGHELA</td>
+        </tr>
+        </table>
+</body>
+</html>
